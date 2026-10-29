@@ -1,0 +1,25 @@
+aid: thesis-co
+name: Thesis
+description: 'Thesis is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
+  backed by polychain) and added to the network as a stub for full-pipeline profiling.'
+url: https://artifacts.apis.io/thesis-co/apis.yml
+x-type: company
+x-source: harvest:vc-portfolio
+x-tier: stub
+x-tier-reason: harvest
+specificationVersion: '0.20'
+created: '2026-10-28'
+modified: '2026-10-28'
+tags:
+- Company
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+x-backed-by:
+- polychain
+common:
+- type: Website
+  url: https://thesis.co
